@@ -1,5 +1,3 @@
-# an-luong-portfolio
-Artist portfolio website for An Luong. 
 export const PORTFOLIO_DATA = {
   name: "An Luong",
   titles: ["Vietnamese Artist", "Digital Media Art", "Installation", "Event Design", "Photography"],
